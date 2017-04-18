@@ -2,14 +2,5 @@
 	"name": "tbn",
 	"website": "https://github.com/gavbn/tbn",
 	"repository": "https://github.com/gavbn/tbn",
-	"env": {
-		"TITLE": {
-			"description": "Optionally set the title of this instance (defaults to 'Cloud Torrent')",
-			"required": false
-		},
-		"AUTH": {
-			"description": "Optional HTTP authentication in the form user:password",
-			"required": false
-		}
-	}
+	
 }
