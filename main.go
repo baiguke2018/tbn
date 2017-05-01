@@ -3,9 +3,8 @@ package main
 import (
 	"log"
 
-	"github.com/gavbn/tbn/server"
-	"github.com/gavbn/tbn/vendor/github.com/jpillora/opts/
-"
+	"github.com/jpillora/cloud-torrent/server"
+	"github.com/jpillora/opts"
 )
 
 var VERSION = "0.8.16-src" //set with ldflags
