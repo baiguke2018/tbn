@@ -15,7 +15,7 @@ import (
 	"time"
 
 	"github.com/gavbn/tbn/engine"
-	"github.com/jgavbn/tbn/static"
+	"github.com/gavbn/tbn/static"
 	"github.com/jpillora/go-realtime"
 	"github.com/jpillora/requestlog"
 	"github.com/jpillora/scraper/scraper"
