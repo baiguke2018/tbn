@@ -14,8 +14,8 @@ import (
 	"sync"
 	"time"
 
-	"github.com/jpillora/cloud-torrent/engine"
-	"github.com/jpillora/cloud-torrent/static"
+	"github.com/gavbn/tbn/engine"
+	"github.com/jgavbn/tbn/static"
 	"github.com/jpillora/go-realtime"
 	"github.com/jpillora/requestlog"
 	"github.com/jpillora/scraper/scraper"
