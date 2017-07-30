@@ -1,5 +1,5 @@
 {
-	"ImportPath": "github.com/gavbn/tbn",
+	"ImportPath": "github.com/jpillora/cloud-torrent",
 	"GoVersion": "go1.8.3",
 	"GodepVersion": "v74",
 	"Deps": [
