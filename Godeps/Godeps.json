@@ -1,7 +1,7 @@
 {
 	"ImportPath": "github.com/jpillora/cloud-torrent",
-	"GoVersion": "go1.9.1",
-	"GodepVersion": "v74",
+	"GoVersion": "go1.10.3",
+	"GodepVersion": "v92",
 	"Deps": [
 		{
 			"ImportPath": "github.com/PuerkitoBio/goquery",
